@@ -1,5 +1,5 @@
-"""Afterlife reef — ghost tile long-term storage.
+"""Afterlife reef — ghost tile long-term storage with search and resurrection.
 Part of the PLATO framework."""
-from .core import Afterlife_reef
+from .reef import AfterlifeReef, GhostRecord
 __version__ = "0.1.0"
-__all__ = ["Afterlife_reef"]
+__all__ = ["AfterlifeReef", "GhostRecord"]
