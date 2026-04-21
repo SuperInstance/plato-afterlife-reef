@@ -1,7 +1,7 @@
 README.md
 pyproject.toml
 src/plato_afterlife_reef/__init__.py
-src/plato_afterlife_reef/core.py
+src/plato_afterlife_reef/reef.py
 src/plato_afterlife_reef.egg-info/PKG-INFO
 src/plato_afterlife_reef.egg-info/SOURCES.txt
 src/plato_afterlife_reef.egg-info/dependency_links.txt
